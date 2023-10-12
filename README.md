@@ -1,5 +1,5 @@
 # zipCollection
-A collection of different zipped DMGs
+A collection of different zipped DMGs, based on :
 
 # zipDMG
 ZIP your DMG if you're not able to mount it on your local machine.
