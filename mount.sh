@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248764_8c876547113c4e4aab3c868e9e0ec572"
+dmg_url="https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
