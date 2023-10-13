@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://github.com/rxhanson/Rectangle/releases/download/v0.73/Rectangle0.73.dmg"
+dmg_url="https://github.com/ciderapp/cider-releases/releases/download/v1.6.0/Cider-1.6.0-universal.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
