@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://d241.userscloud.net/d/hul5tqustn2fvxijvhmzfecaknvnllquga2egd4blrw6snraqu3fzwm4sfxjdk2yndsdm4q5/Geometry_dash_2_113.dmg"
+dmg_url="https://d241.userscloud.net/d/hul5tqustn2fvxijvhmzfecaknvnllquga2egd4blrw6snraqueo6on6e2zpk7vdd23gmhol/Geometry_dash_2_113.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
