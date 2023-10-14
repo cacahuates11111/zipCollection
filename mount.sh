@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://files2.freedownloadmanager.org/6/latest/fdm.dmg"
+dmg_url="https://fs-uae.net/files/FS-UAE/Stable/3.1.66/FS-UAE_3.1.66_macOS_ARM64.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
