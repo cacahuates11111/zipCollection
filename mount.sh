@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://fs-uae.net/files/FS-UAE-Launcher/Stable/3.1.68/FS-UAE-Launcher_3.1.68_macOS_ARM64.dmg"
+dmg_url="https://repo.fig.io/generic/stable/asset/latest/universal/fig.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
