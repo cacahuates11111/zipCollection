@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://www.google.com/intl/fr_fr/chrome/next-steps.html?statcb=0&installdataindex=empty&defaultbrowser=0"
+dmg_url="https://github.com/Eugeny/tabby/releases/download/v1.0.201/tabby-1.0.201-macos-arm64.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
