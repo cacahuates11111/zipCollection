@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://github.com/citra-emu/citra-web/releases/download/2.0/citra-setup-mac.dmg"
+dmg_url="https://archive.org/download/flashplayerarchive/pub/flashplayer/installers/archive/fp_29.0.0.171_archive.zip/29_0_r0_171%2Fflashplayer29_0r0_171_mac.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
