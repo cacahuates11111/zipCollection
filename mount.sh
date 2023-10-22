@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://dl.google.com/chrome/mac/universal/stable/CHFA/googlechrome.dmg"
+dmg_url="https://github.com/citra-emu/citra-web/releases/download/2.0/citra-setup-mac.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
