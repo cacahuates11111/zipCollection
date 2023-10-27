@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://github.com/balena-io/etcher/releases/download/v1.18.11/balenaEtcher-1.18.11.dmg"
+dmg_url="https://github.com/utmapp/UTM/releases/latest/download/UTM.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
