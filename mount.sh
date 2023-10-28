@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://github.com/ninxsoft/Mist/releases/download/v0.9.1/Mist.0.9.1.dmg"
+dmg_url="https://javadl.oracle.com/webapps/download/AutoDL?BundleId=249193_b291ca3e0c8548b5a51d5a5f50063037"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
