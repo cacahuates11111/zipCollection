@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://www.bresink.eu/download3.php?PHPSESSID=85f576e9f4331ae14046a8ac3b43375e"
+dmg_url="https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.16/Obsidian-1.4.16-universal.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
