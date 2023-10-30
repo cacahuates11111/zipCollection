@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.16/Obsidian-1.4.16-universal.dmg"
+dmg_url="https://d241.userscloud.net/d/hulw6m4stn2fvxij3xm4rcyfboxuvb22ikuhyoci6vfaf2zeyn4cbesa5rczug3ew6rmv2qp/MacPilot_15.0_[TNT].dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
