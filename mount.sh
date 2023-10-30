@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://javadl.oracle.com/webapps/download/AutoDL?BundleId=249193_b291ca3e0c8548b5a51d5a5f50063037"
+dmg_url="https://www.bresink.eu/download3.php?PHPSESSID=85f576e9f4331ae14046a8ac3b43375e"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
