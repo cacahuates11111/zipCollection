@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://d241.userscloud.net/d/hulw6m4stn2fvxij3xm4rcyfboxuvb22ikuhyoci6vfaf2zeyn4cbesa5rczug3ew6rmv2qp/MacPilot_15.0_[TNT].dmg"
+dmg_url="https://www.dropbox.com/scl/fi/37fytrpxljlod9iaz1x7h/MacPilot-15.0-TNT.dmg?rlkey=at4akq7bhbacbklu1j5zqd5tq&dl=1"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
