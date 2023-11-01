@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://telegram.org/dl?tme=16a9cfd40e34750f33_2534929910961692993"
+dmg_url="https://osx.telegram.org/updates/Telegram.dmg"
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
 
