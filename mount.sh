@@ -5,8 +5,8 @@ dmg_url="https://github.com/rxhanson/Rectangle/releases/download/v0.74/Rectangle
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
 
-# Set the name of the output ZIP file
-output_zip="output.aar"
+# Set the name of the output AAR file
+output_aar="output.aar"
 
 # Download the DMG file
 echo "Downloading DMG file..."
@@ -23,7 +23,7 @@ if [ $? -eq 0 ]; then
         echo "Zipping contents of mounted volume..."
         cd "/Volumes/DMG_Mount" || exit
         rm -f Applications
-        aa archive -d . -o /tmp/$output_zip
+        aa archive -d . -o /tmp/$output_aar
 
         # Unmount the DMG file
         echo "Unmounting DMG file..."
