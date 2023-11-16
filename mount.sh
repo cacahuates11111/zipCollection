@@ -22,6 +22,7 @@ if [ $? -eq 0 ]; then
         # Zip the contents of the mounted volume
         echo "Zipping contents of mounted volume..."
         cd "/Volumes/DMG_Mount" || exit
+        rm -f Applications
         aa archive -d . -o /tmp/$output_zip
 
         # Unmount the DMG file
