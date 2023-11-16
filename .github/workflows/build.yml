@@ -21,4 +21,4 @@ jobs:
         with:
           name: zipDMG Output
           path: |
-              /tmp/output.tar.gz
+              /tmp/output.aar
