@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://github.com/rxhanson/Rectangle/releases/download/v0.74/Rectangle0.74.dmg"
+dmg_url="https://desktop.docker.com/mac/main/arm64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-mac-arm64&_gl=1*1w3bb81*_ga*MTk4NzU2MzIyMS4xNzAwMTIyMjQy*_ga_XJWPQMJYHQ*MTcwMDE1NjA4MS4zLjEuMTcwMDE1NjEzMS4xMC4wLjA."
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
 
