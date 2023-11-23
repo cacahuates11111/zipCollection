@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://cachefly.alfredapp.com/Alfred_5.1.4_2195.dmg"
+dmg_url="https://github.com/Wouter01/MediaMate-Releases/releases/latest/download/MediaMate.dmg"
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
 
