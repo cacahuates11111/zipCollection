@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://discord.com/api/download?platform=osx"
+dmg_url="https://d6138.download-send.com/d/kjy4u6pu6gosj4l4en6ehtpdybdvjnlos4zos6wt4bu3gdql3xwcpsseotkpozgekccwc2es/Logic_Pro_X_10.8.1_%5bTNT%5d.dmg"
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
 
