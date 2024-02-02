@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://github.com/sdraganic/stephDMG/releases/download/e/Logic.Pro.X.10.8.1.TNT.dmg"
+dmg_url="https://scontent.xx.fbcdn.net/v/t39.16592-6/10000000_1048741139826838_7947228973459439765_n.dmg/WhatsApp-2.24.1.81.dmg?_nc_cat=103&ccb=1-7&_nc_sid=8f3826&_nc_ohc=3ryStac-_u4AX8KFsH3&_nc_ht=scontent.xx&oh=00_AfBcnsHdWqV7XhDqv00JjhSSsbDEuQXJPrzaOCC5WX7aCQ&oe=65C1B27B"
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
 
